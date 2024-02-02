@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Fran J. Salvador",
+    "label": "Frontend Engineer focused on building websites with extra attention to detail",
+    "image": "",
+    "email": "fran.j9.sc@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "As a seasoned Frontend Engineer, I specialize in crafting exceptional user experiences using TypeScript, Nuxt, and Vue.js. With a strong foundation in GraphQL and expertise in building and consuming RESTful APIs, I bring over 8 years of extensive experience to the table.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Catalonia"
+    },
+    "profiles": [
+      {
+        "network": "Email",
+        "username": "Fran J",
+        "url": "mailto:fran.j9.sc@gmail.com",
+        "icon": "i-fa6-regular-envelope"
+      },
+      {
+        "network": "GitHub",
+        "username": "FrankDeWitt",
+        "url": "https://github.com/FrankDeWitt/",
+        "icon": "i-fa6-brands-github"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Fran J",
+        "url": "https://www.linkedin.com/in/fran-jsc/",
+        "icon": "i-fa6-brands-linkedin"
+      },
+      {
+        "network": "X",
+        "username": "Fran_J9",
+        "url": "https://twitter.com/Fran_J9",
+        "icon": "i-fa6-brands-x-twitter"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Heymondo",
+      "position": "Frontend Developer",
+      "url": "https://heymondo.com/",
+      "startDate": "jan. 2023",
+      "endDate": "current",
+      "summary": "Development of the company's new website using Nuxt 3, creation of new internal-use products, and enhancements to the insurance product. Maintenance of the website and platforms.",
+      "remote": true,
+      "highlights": [
+      ]
+    },
+    {
+      "name": "The Hotels Network",
+      "position": "Frontend Developer",
+      "url": "https://thehotelsnetwork.com/",
+      "startDate": "nov. 2019",
+      "endDate": "jan. 2023",
+      "summary": "Creation and development of an internal product to support the growth of the direct hotel sales channel using JavaScript and Vue 3, establishment and maintenance of the website with Nuxt 2, and ongoing development of new internal technologies and products.",
+      "remote": true,
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Linka",
+      "position": "Fullstack Developer",
+      "startDate": "mar. 2018",
+      "endDate": "nov. 2019",
+      "summary": "Creation of websites and mailings using WordPress and Laravel technologies on demand for multiple clients, advertising campaigns, and events.",
+      "remote": false,
+      "highlights": [
+      ]
+    },
+    {
+      "name": "CLMHub - BCNscience",
+      "position": "Web Developer",
+      "url": "https://www.evidenze.com/",
+      "startDate": "sept. 2016",
+      "endDate": "mar. 2018",
+      "summary": "Front-end and back-end web content programming (HTML5, CSS, Sass, Bootstrap, JavaScript, Vue.js, jQuery, jQuery Mobile, Knockout.js, PHP, MySQL), and research and implementation of new functionalities for CRM platforms.",
+      "remote": false,
+      "highlights": [
+      ]
+    }
+  ],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Project",
+    "startDate": "2019-01-01",
+    "endDate": "2021-01-01",
+    "description": "Description...",
+    "highlights": [
+      "Won award at AIHacks 2016"
+    ],
+    "url": "https://project.com/"
+  }]
+}

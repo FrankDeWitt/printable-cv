@@ -1,13 +1,11 @@
 <template>
-  <UContainer>
-    <UCard class="mt-10">
-      <template #header>
-        <div class="flex justify-between">
-          <h1>Welcome to Nuxt UI Starter</h1>
-          <ColorScheme><USelect v-model="$colorMode.preference" :options="['system', 'light', 'dark']" /></ColorScheme>
-        </div>
-      </template>
-      <UButton icon="i-heroicons-book-open" to="https://ui.nuxt.com" target="_blank">Open Nuxt UI Documentation</UButton>
-    </UCard>
+  <UContainer
+    class="container relative mx-auto scroll-my-12 overflow-auto p-4 print:p-12 md:p-16"
+  >
+    <div class="mx-auto w-full max-w-2xl space-y-8 bg-white print:space-y-6">
+      <HeroSection />
+      <AboutSection />
+      <WorkSection />
+    </div>
   </UContainer>
 </template>
