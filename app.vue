@@ -6,6 +6,9 @@
       <HeroSection />
       <AboutSection />
       <WorkSection />
+      <SkillsSection />
+      <ProjectsSection />
     </div>
   </UContainer>
+  <KeyboardManager />
 </template>

@@ -4,6 +4,7 @@
     "@nuxt/devtools": "latest",
     "@nuxt/image": "latest",
     "@nuxt/ui": "^2.9.0",
+    "ninja-keys": "^1.2.2",
     "nuxt": "^3.7.4"
   },
   "private": true,
